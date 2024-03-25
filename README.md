@@ -20,6 +20,10 @@
 
     **Contador De Visitas**
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg) 
+
+<div align="center">
+
+![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
 </div>
