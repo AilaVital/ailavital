@@ -1,7 +1,5 @@
 # Aila Vital💫💫 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-
-
 - 🚀 Atualmente estou aprendendo: <strong>Aprendendo Programação</strong> 
 - 💬 Pergunte-me sobre: <strong>Gosto de Jogar volei e Programar </strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
@@ -25,5 +23,8 @@
 <div align="center">
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
+
+![imagem](https://cdn.akamai.steamstatic.com/steam/apps/1118650/ss_b85f33fffa250e5ea6303634ff3dfac1d92b9251.1920x1080.jpg?t=1675972900)
+
 
 </div>
