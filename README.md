@@ -1,8 +1,20 @@
-# Aila Vital💫💫 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-#
-- 🚀 Atualmente estou aprendendo: <strong>Aprendendo Programação</strong> 
-- 💬 Pergunte-me sobre: <strong>Gosto de Jogar volei e Programar </strong>
-- 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
+<h1 align="center"> Olá, eu sou <strong>Aila Vital,</strong> bem-vindo ao meu perfil.                                                                                     
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1
+                                                                                        
+  <div align="center">
+   
+   ![tenor](https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7)
+
+
+<p align="center"><b>Sobre mim</b></p>
+- :books: &nbsp; <strong>Eu tenho interesse de atuar na área da computação</strong>
+  
+- 🎓 &nbsp; <strong>Curso o 1º ano do ensino médio técnico</strong>
+
+- :computer: &nbsp; <strong>No momento estou estudando Javascript e MySQL</strong>
+
+- 🎮 &nbsp; <strong>Hobbies: Jogar vôlei, pintar, escutar música, ler livros, jogar videogame etc.</strong>
 #
 ![imagem](https://cdn.akamai.steamstatic.com/steam/apps/1118650/ss_b85f33fffa250e5ea6303634ff3dfac1d92b9251.1920x1080.jpg?t=1675972900)
 
