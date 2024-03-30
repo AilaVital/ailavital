@@ -38,7 +38,7 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![imagem](https://cdn.akamai.steamstatic.com/steam/apps/1118650/ss_b85f33fffa250e5ea6303634ff3dfac1d92b9251.1920x1080.jpg?t=1675972900)
+![imagem](https://images.app.goo.gl/KnwnxyPE7UjdwCdL9)
 
 
 </div>
