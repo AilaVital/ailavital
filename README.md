@@ -38,7 +38,7 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![imagem](https://safesea.com.br/wp-content/uploads/2021/10/marenatureza-1.jpg).
+![imagem](https://i.makeagif.com/media/7-18-2016/0sd5m7.mp4).
 
 
 </div>
