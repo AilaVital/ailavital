@@ -38,7 +38,7 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2Fpixelated-game-over-gif-871811.html&psig=AOvVaw1wGadizggTL389-K_tyxwq&ust=1712014813152000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi3x8mn1p-FAxXBSbgEHRfHCgQQjRx6BAgAEBU">
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2Fpixelated-game-over-gif-871811.html&psig=AOvVaw1wGadizggTL389-K_tyxwq&ust=1712014813152000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi3x8mn1p-FAxXBSbgEHRfHCgQQjRx6BAgAEBU"/></a>
 
 
 </div>
