@@ -1,22 +1,27 @@
 <h1 align="center"> Olá, eu sou <strong>Aila Vital,</strong> bem-vindo ao meu perfil.                                                                                     
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
                                                                                        
 <div align="center">
   
   <img src="https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7" width="700">
 
-<p align="center"><b>Sobre mim</b></p>
-
-- :books: &nbsp; <strong>Eu tenho interesse de atuar na área da computação</strong> 
+<div aling="center">
   
-- 🎓 &nbsp; <strong>Curso o 1º ano do ensino médio técnico</strong>
+# Sobre mim
 
-- :computer: &nbsp; <strong>No momento estou estudando Javascript e MySQL</strong>
+ :books: &nbsp; <strong>Eu tenho interesse de atuar na área da computação</strong> 
+  
+ 🎓 &nbsp; <strong>Curso o 1º ano do ensino médio técnico</strong>
 
-- 🎮 &nbsp; <strong>Hobbies: Jogar vôlei, pintar, escutar música, ler livros, jogar videogame etc.</strong>
-#
-<img src="blob:chrome-untrusted://media-app/948d49a1-444f-4ab1-b668-46d908d943d6">
+ :computer: &nbsp; <strong>No momento estou estudando Javascript e MySQL</strong>
+
+ 🎮 &nbsp; <strong>Hobbies: Jogar vôlei, pintar, escutar música, ler livros, jogar videogame etc.</strong>
+
+<div align="center">
+
+
+<img src="https://media1.tenor.com/m/hNI_PyLniVUAAAAd/vaporwave-aesthetic.gif" width="700">
 
 <div align="center">
 
