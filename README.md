@@ -8,7 +8,8 @@
 
 
 <p align="center"><b>Sobre mim</b></p>
-- :books: &nbsp; <strong>Eu tenho interesse de atuar na área da computação</strong>
+
+- :books: &nbsp; <strong>Eu tenho interesse de atuar na área da computação</strong> 
   
 - 🎓 &nbsp; <strong>Curso o 1º ano do ensino médio técnico</strong>
 
@@ -38,5 +39,5 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![imagem](https://i.gifer.com/USnE.gif)
+![imagem](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
