@@ -16,7 +16,7 @@
 
 - 🎮 &nbsp; <strong>Hobbies: Jogar vôlei, pintar, escutar música, ler livros, jogar videogame etc.</strong>
 #
-![imagem](https://cdn.akamai.steamstatic.com/steam/apps/1118650/ss_b85f33fffa250e5ea6303634ff3dfac1d92b9251.1920x1080.jpg?t=1675972900)
+<img src="blob:chrome-untrusted://media-app/948d49a1-444f-4ab1-b668-46d908d943d6">
 
 <div align="center">
 
