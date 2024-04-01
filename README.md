@@ -39,4 +39,4 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![Laboratório]("https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7")
+![Laboratório]("https://i.gifer.com/USnE.gif")
