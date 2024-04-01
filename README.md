@@ -32,13 +32,13 @@
     **Contador De Visitas**
 
 
-![VisitorCount](https://profile-counter.glitch.me/{ailavital}/count.svg) 
+![VisitorCount](https://profile-counter.glitch.me/{ailavital}/count.svg)
 
 <div align="center">
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![imagem](https://i.gifer.com/USnE.gif).
+![imagem](https://i.gifer.com/USnE.gif)
 
 
 </div>
