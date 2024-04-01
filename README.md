@@ -3,8 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1
                                                                                         
   <div align="center">
+
+  <h1 align="center"> Mestre <strong>Helder Barros,</strong>
    
-   ![tenor](https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7)
+   <img src="https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7" width="700">
 
 
 <p align="center"><b>Sobre mim</b></p>
