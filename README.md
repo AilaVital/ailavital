@@ -39,4 +39,4 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-<img src="Meus arquivos/Downloads/later-alligator.gif">
+<img src="https://media1.tenor.com/m/5lrpWDD2LT0AAAAC/later-alligator.gif">
