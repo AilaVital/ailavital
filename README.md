@@ -39,4 +39,4 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-<img src="https://media.tenor.com/LqlE067ko5UAAAAM/oacmn-game.gif" width="20">
+<img src="https://media.tenor.com/LqlE067ko5UAAAAM/oacmn-game.gif" width="600">
