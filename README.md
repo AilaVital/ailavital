@@ -39,4 +39,4 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![Laboratório]("https://i.gifer.com/USnE.gif")
+<img src="https://media1.tenor.com/m/Uj4RSxn_BTMAAAAC/game-over-glitch.gif" with="600px">
