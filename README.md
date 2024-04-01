@@ -38,5 +38,5 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![imagem](https://png.pngtree.com/png-clipart/20220303/original/pngtree-beach-element-gif-dynamic-diagram-png-image_7382024.png)
+![imagem](https://i.gifer.com/USnE.gif)
 
