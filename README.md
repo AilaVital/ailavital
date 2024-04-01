@@ -39,4 +39,4 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-<img scr="https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7" width="470px">
+![Laboratório]("https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7")
