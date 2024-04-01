@@ -39,5 +39,4 @@
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=ailavital&show_icons=true&theme=dark)
 
-![imagem](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
+![tenor](https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7)
