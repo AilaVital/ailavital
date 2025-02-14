@@ -12,7 +12,7 @@
 
  :books: &nbsp; <strong>Eu tenho interesse de atuar na área da computação</strong> 
   
- 🎓 &nbsp; <strong>Curso o 1º ano do ensino médio técnico</strong>
+ 🎓 &nbsp; <strong>Curso o 2º ano do ensino médio técnico</strong>
 
  :computer: &nbsp; <strong>No momento estou estudando Javascript e MySQL</strong>
 
