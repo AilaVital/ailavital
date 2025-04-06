@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://pm1.narvii.com/6523/5e6b1beaa0bff18bf1fac39ba7052ffdb20ba8b9_hq.jpg" alt="Banner" width="1000">
-   <h1 style="font-size: 50px; font-weight: 900; text-transform: uppercase; letter-spacing: 20px;"><strong>@k i i a r o<strong></h1>
+  <img src="https://i.pinimg.com/736x/cd/00/37/cd00375ceab565a65687671ed93dbe22.jpg" alt="Banner" width="1000" height="400">
+   <h1 style="font-size: 50px; font-weight: 900; text-transform: uppercase; letter-spacing: 20px;"><strong>Vital_dev<strong></h1>
 </div>
 
 <div style="width: 50%; margin: 0 auto; text-align: left;">
@@ -28,20 +28,11 @@
 
 <div align="center">
 
-  <a href="https://linktr.ee/kiarofv" alt="Linktree">
-    <img src="https://th.bing.com/th/id/R.4399f915a33c18a0504c617c7ef8764d?rik=jsJEjGogIugEFA&pid=ImgRaw&r=0" width="55" height="30" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="instagram.com/kiiaaroo" alt="Instagram">
+Get in touch by: 
+<br>
+  <a href="https://www.instagram.com/aila_vital/" alt="Instagram">
     <img src="https://logoyab.com/wp-content/uploads/2023/12/%D9%84%D9%88%DA%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85-1030x1030.png" width="24" height="24" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/@kiarofv" alt="Youtube">
-    <img src="https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png" width="24" height="24" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/GodAlissonX" alt="X">
-    <img src="https://img.freepik.com/premium-vector/x-new-logo_628407-1898.jpg" width="24" height="24" />
   </a>
 
 </div>
