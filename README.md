@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/cd/00/37/cd00375ceab565a65687671ed93dbe22.jpg" alt="Banner" width="1000" height="400">
+  <img src="https://github.com/AilaVital/ailavital/assets/164503762/ec4eff15-1078-49ab-98dc-86856cbaf1d7" alt="Banner" width="1000" height="300">
    <h1 style="font-size: 50px; font-weight: 900; text-transform: uppercase; letter-spacing: 20px;"><strong>Vital_dev<strong></h1>
 </div>
 
