@@ -9,7 +9,7 @@
 
 
   <h1> 🎓 Formação acadêmica</h1>
-* Curso Tecnico em Desenvolvimento de Sistemas
+Curso Tecnico em Desenvolvimento de Sistemas
 <h1>💼 Tecnologias</h1>
     <div> 
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
