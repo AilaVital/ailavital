@@ -1,42 +1,60 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/68714517-82a6-401f-ae32-9f92445c141c" width="80px">
+  <h1>Bem-vindos ao meu perfil!</h1>
+  <p align="center">
+    <strong>Aila Vital</strong><br>
+    Estudante de Desenvolvimento de Sistemas no Senac MedioTec <br>
+    Recife, Pernambuco
+  </p>
 
-
-
-<div style="width: 50%; margin: 0 auto; text-align: left;">
-  <h2 style="text-align: center;">Bem-Vindos ao meu perfil!
-    <img src= "https://github.com/user-attachments/assets/68714517-82a6-401f-ae32-9f92445c141c" width = "50px" height = "50px"></h2>
-  
-  <p> Meu nome é Aila Vital, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas no Senac MedioTec, com conclusão prevista para 2026. Apesar de ainda não ter experiência profissional formal, estou em constante aprimoramento e busco me tornar uma desenvolvedora full-stack.</p>
-
-
-  <h1> 🎓 Formação acadêmica</h1>
-Curso Tecnico em Desenvolvimento de Sistemas
-<h1>💼 Tecnologias</h1>
-    <div> 
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C Language">
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
- 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ailavital/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+    </a>
+    <a href="https://www.instagram.com/aila_vital/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    </a>
+    <a href="mailto:ailavital.corporativo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    </a>
+  </p>
 </div>
 
-<h1>⚙ Ferramentas</h1> 
+---
 
-<img src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-0A222E?style=for-the-badge&logo=figma&logoColor=white" />
+### 🎓 Sobre Mim
+Sou estudante de **Desenvolvimento de Sistemas** com conclusão prevista para 2026. Atualmente, foco meus estudos para me tornar uma **Desenvolvedora Full-Stack**, unindo competências técnicas em programação com um olhar voltado para o design. Além da tecnologia, sou apaixonada por artes manuais, esportes e música.
 
-<h1>😁 Hobbies</h1>
-Quando tenho um tempo livre, gosto de assistir series, filmes de ação e aventura 📺, pintar🎨, ouvir música 🎧, ler alguns livros 📚, viajar ✈️🏖️ e crochetar🧶!
+---
+
+### 💻 Stack Tecnológica
+
+#### **Linguagens e Web**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+#### **Design e Ferramentas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### 🎨 Hobbies e Interesses
+Além de codar, aproveito meu tempo livre com:
+- **Artes:** Pintura, lettering e crochê.
+- **Esportes:** Prática de vôlei.
+- **Cultura:** Assistir séries, filmes de ação e ler novos livros.
+- **Música:** Eclética.
 
 
-<h1>✉ Redes Sociais e Contato</h1>
 
-[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aila_vital/)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailavital/)
-[![E-mail Badge](https://img.shields.io/static/v1?label=email&message=ailavital.corporativo@gmail.com&color=blue&style=for-the-badge)](mailto:ailavital.corporativo@gmail.com)
-
-</div>
-
-<a href="https://github.com/AilaVital">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AilaVital&show_icons=true&theme=dark&include_all_commits=true&count_private=true" aling="left"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AilaVital&layout=compact&langs_count=7&theme=dark" align="right" />
