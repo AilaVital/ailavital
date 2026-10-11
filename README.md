@@ -289,6 +289,5 @@ Sistema para gestão e acompanhamento de métricas de saúde com estrutura backe
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a855f7,50:170b22,100:0d0d0d&section=footer" width="100%" />
 
-<sub>Desenvolvido com código, criatividade e um toque de roxo. 💜</sub>
 
 </div>
