@@ -250,7 +250,6 @@ Sistema para gestão e acompanhamento de métricas de saúde com estrutura backe
 ## `💜 contribution garden`
 
 <img src="https://raw.githubusercontent.com/ailavital/ailavital/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
-
 </div>
 
 ---
