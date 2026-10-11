@@ -1,10 +1,9 @@
 <div align="center">
 
-  <!-- Banner Personalizado -->
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="0" style="display:none;"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f051d&height=180&section=header&text=AILA%20VITAL&fontSize=42&fontColor=d8b4fe&animation=fadeIn&fontAlignY=50&desc=Systems%20Development%20%26%20UI%2FX%20Design&descAlignY=75&descSize=16&descColor=a855f7" width="100%" alt="Banner Aila Vital" />
+  # ✦ AILA VITAL ✦
+  ### *Systems Development &amp; UI/UX Design*
 
-  <br><br>
+  <br>
 
   <!-- Typing Animation -->
   <a href="https://github.com/ailavital">
