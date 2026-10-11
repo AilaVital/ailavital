@@ -1,9 +1,9 @@
 <div align="center">
 
-  # ✦ AILA VITAL ✦
-  ### *Systems Development &amp; UI/UX Design*
+  <!-- Banner Personalizado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090314,50:1b0a2a,100:3b1052&height=200&section=header&text=AILA%20VITAL&fontSize=42&fontColor=d8b4fe&animation=fadeIn&fontAlignY=38&desc=SYSTEMS%20DEVELOPMENT%20%26%20UI%2FUX%20DESIGN&descAlignY=65&descSize=15&descColor=c084fc" width="100%" alt="Banner Aila Vital" />
 
-  <br>
+  <br><br>
 
   <!-- Typing Animation -->
   <a href="https://github.com/ailavital">
@@ -12,15 +12,15 @@
 
   <br><br>
 
-  <!-- Social Badges -->
+  <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/ailavital/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F051D?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-090314?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/vtlaila.01/">
-    <img src="https://img.shields.io/badge/Instagram-0F051D?style=for-the-badge&logo=instagram&logoColor=c084fc" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-090314?style=for-the-badge&logo=instagram&logoColor=c084fc" alt="Instagram">
   </a>
   <a href="mailto:ailavital.corporativo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0F051D?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-090314?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="Gmail">
   </a>
 
 </div>
